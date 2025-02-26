@@ -7,7 +7,7 @@ I'm a full stack Data Scientist
 
 ## 🛠 Skills
 * Python
-* Statistics
+* Power BI
 * SQL
 * Machine Learning
 * Deep Learning
