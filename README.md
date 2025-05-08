@@ -13,6 +13,7 @@ I'm a full stack Data Scientist
 * Deep Learning
 * Artificial Intelligence
 * Data Science
+* NLP
 
 
 
